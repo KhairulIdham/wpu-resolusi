@@ -2,6 +2,7 @@ RENCANA KONTEN WEB
 
 - Materi video HTML & CSS
 - Materi video Destraction
+- Membuat fungsi struktur data dasar
 - Materi video WP LASTLINE
   - Membuat konten profil
   - Membuat Ecomerce
