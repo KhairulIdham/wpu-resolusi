@@ -1,0 +1,8 @@
+RENCANA KONTEN WEB
+
+- Materi video HTML & CSS
+- Materi video Destraction
+- Materi video WP LASTLINE
+  - Membuat konten profil
+  - Membuat Ecomerce
+- Materi video WP FRAMEWORKS
