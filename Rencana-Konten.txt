@@ -7,3 +7,4 @@ RENCANA KONTEN WEB
   - Membuat konten profil
   - Membuat Ecomerce
 - Materi video WP FRAMEWORKS
+  - Laravel
